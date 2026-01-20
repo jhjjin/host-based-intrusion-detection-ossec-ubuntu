@@ -8,7 +8,6 @@ an Ubuntu Linux virtual machine. The system monitors authentication logs and pro
 execution activity to detect suspicious behavior such as SSH brute-force attempts and
 unknown executable execution.
 
-This was completed as an individual project for ECE 4309.
 
 ---
 
